@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxv;
+namespace Maxvtest\ImageDl;
 
 /**
  * PHP class to download images by URL.
@@ -13,7 +13,7 @@ namespace Maxv;
  * 
  * @author max
  */
-class ImageDL
+class ImageDl
 {
     /**
      * The URL of a remote file.
