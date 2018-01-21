@@ -1,0 +1,19 @@
+{
+    "name": "maxvtest/image-dl",
+    "description": "Image Downloader",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Max",
+            "email": "maximvl@i.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Maxvtest\\ImageDl\\": "src/"}
+    }
+}
